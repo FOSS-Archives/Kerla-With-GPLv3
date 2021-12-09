@@ -1,7 +1,7 @@
  
 #### (This F-OSS fork may not be maintained nor up-to-date and is for reference & preservation purposes only)
  
-# Kerla
+# Kerla-Archived 
 [![CI](https://github.com/nuta/kerla/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/nuta/kerla/actions/workflows/ci.yml)
 [![Discord Chat](https://img.shields.io/discord/904705655095582752?logo=discord&style=social)](https://discord.gg/6Pu4ujpp6h)
 
