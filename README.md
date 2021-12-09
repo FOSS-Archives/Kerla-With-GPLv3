@@ -1,3 +1,6 @@
+ 
+#### (This F-OSS fork may not be maintained nor up-to-date and is for reference & preservation purposes only)
+ 
 # Kerla
 [![CI](https://github.com/nuta/kerla/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/nuta/kerla/actions/workflows/ci.yml)
 [![Discord Chat](https://img.shields.io/discord/904705655095582752?logo=discord&style=social)](https://discord.gg/6Pu4ujpp6h)
@@ -78,8 +81,8 @@ Send me bug reports, feature requests, and patches on [GitHub](https://github.co
 
 ## License: Multi-option
 
-Multi-licensed: This Fork is under the MIT & Apache (latest versions) combination
-See full [LICENSE](https://github.com/nuta/kerla/blob/main/COPYING.md) for more info.
+Multi-licensed: This Forked Archive has an attached GPLv3 (Or Any Later) contract
+See full [LICENSE](https://github.com/FOSS-Archives/Kerla-With-GPLv3/blob/main/COPYING.md) for more info.
 
 ## Related Work
 
