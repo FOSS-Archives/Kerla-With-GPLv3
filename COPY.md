@@ -1,5 +1,5 @@
 
-#### This Forked Archive Has An Attached GPLv3 (Or Any Later) License. 
+#### This Forked Archive Has An Attached GPLv3 (Or Any Later) Version License. 
  
 # License Agreement/Contract(s)
 **Severability/salvatorius: If any word, part, portion, provision, of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, that then shall not affect:** 
