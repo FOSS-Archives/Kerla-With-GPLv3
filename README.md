@@ -82,7 +82,7 @@ Send me bug reports, feature requests, and patches on [GitHub](https://github.co
 ## License: Multi-option
 
 Multi-licensed: This Forked Archive has an attached GPLv3 (Or Any Later) contract
-See full [LICENSE](https://github.com/FOSS-Archives/Kerla-With-GPLv3/blob/main/COPYING.md) for more info.
+See full [LICENSE](https://github.com/FOSS-Archives/Kerla-With-GPLv3/blob/main/COPY.md) for more info.
 
 ## Related Work
 
