@@ -20,7 +20,7 @@ buddy_system_allocator = { version = "0.8.0", features = ["const_fn"] }
 
 # x64-specific dependencies.
 x86 = "0.43.0"
-vte = "0.10"
+vte = "0.11"
 
 kerla_utils = { path = "../libs/kerla_utils", features = ["no_std"] }
 log_filter = { path = "../libs/log_filter" }
